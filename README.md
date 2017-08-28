@@ -7,8 +7,6 @@ sections of build.xml that I don't care about for that particular
 project, set the project properties, clear out the sample sources, and
 get to work.
 
-NOTE: This change is a test of the GIT version control system.
-
 Oh, and one other thing...
 
 ## Setup
